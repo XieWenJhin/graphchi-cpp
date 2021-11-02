@@ -17,6 +17,10 @@ conf/graphchi.cnf.local
 *.la
 *.a
 *~
+*.err
+*.log
+datasets
+run.sh
 
 bin
 
